@@ -1,0 +1,11 @@
+input{
+    padding: 2%;
+    border-color: rgba(255, 99, 71, 0.5);
+    margin: 10%;
+    color: green;
+}
+
+label{
+    color:red;
+    font-size: x-large;
+}
